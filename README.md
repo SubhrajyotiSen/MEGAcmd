@@ -36,6 +36,7 @@ libreadline-dev libpcre++-dev libsodium-dev`
 Ensure you obtain the repository recursively.
 ```
 git clone https://github.com/meganz/MEGAcmd.git
+cd MEGAcmd
 git submodule update --init --recursive
 ```
 
